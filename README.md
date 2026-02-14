@@ -22,7 +22,12 @@ https://mojito-website-rho.vercel.app/
 - Easy to customize sections (hero, services, testimonials, contact)
 
 ## 📸 Screenshots
-> Add 2–3 screenshots here (homepage, mobile view, key sections)
+
+![Mojito1](https://github.com/user-attachments/assets/1332276f-1fb9-478e-887f-578590588679)
+
+![mojito2](https://github.com/user-attachments/assets/8746d7a9-7d4e-466a-8693-cce822fab013)
+
+![mojito3](https://github.com/user-attachments/assets/c37bff33-541d-4061-a63c-01e02a31d72e)
 
 ## 📦 Getting Started (Run Locally)
 
@@ -34,14 +39,6 @@ src/
   └─ main.jsx
 
 ---
-link : [Mojito](https://mojito-website-rho.vercel.app/) 
-
-![Mojito1](https://github.com/user-attachments/assets/1332276f-1fb9-478e-887f-578590588679)
-
-![mojito2](https://github.com/user-attachments/assets/8746d7a9-7d4e-466a-8693-cce822fab013)
-
-![mojito3](https://github.com/user-attachments/assets/c37bff33-541d-4061-a63c-01e02a31d72e)
-
 
 ```bash
 # 1. Clone the repository
